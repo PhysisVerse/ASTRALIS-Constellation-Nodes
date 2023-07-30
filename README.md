@@ -1,7 +1,7 @@
 # ASTRALIS Constellation - Genesis Nodes
 
 
-This is a WIP.
+WIP:
 
 - 01 - ASTRALIS-AB - ASTRALAvKKRmzHLMFTn78wva6xnt5eiVZcUKwHAWCJ4E
 - 02 - ASTRALIS-AD - ASTRAL7HhqAHaTNDqASoxXKNsh632HGCQp1RCQKiQHPP
