@@ -8,7 +8,7 @@ WIP:
 - 03 - ASTRALIS-AE - ASTRALFN7keAttac3iWcxQmzmXC8mXygcZ32a6ZvRZF4 - capella.physis-astralis.sol
 - 04 - ASTRALIS-AF - ASTRALAM4M6qrH2n4UtvsKjLtsNzHfPUrrkyYnFT1UTm - rigel.physis-astralis.sol
 - 05 - ASTRALIS-AG - ASTRALgBPL5KSFtXhKhicQWjxC6DJYQ1Hr4jLALkt8Df - altair.physis-astralis.sol
-- 06 - ASTRALIS-AH - ASTRALTZpTwiDHeUHVtdz8F2UycuExqAnffsersWuxSW - betelgeuse.physis-astralis.sol
+- 06 - ASTRALIS-AH - ASTRALTZpTwiDHeUHVtdz8F2UycuExqAnffsersWuxSW - navi.physis-astralis.sol
 - 07 - ASTRALIS-AI - ASTRALiDLQBkCWH4Gok9bWvPBt3th3up8pdVbtmTyttd - pollux.physis-astralis.sol
 - 08 - ASTRALIS-AJ - ASTRALQf6BcT6JqW2gYTE2PJ7jvxCTeL49isFo2oUA9T - spica.physis-astralis.sol
 - 09 - ASTRALIS-AK - ASTRAL7UQVd9noxGbrstPwPkTN7TTXEtQzXk1uGpHDyo - mimosa.physis-astralis.sol
