@@ -24,4 +24,5 @@ WIP:
 - 18: ASTRALuXXBnBz4fAWu5E8px3akmsCbiHstfZoJ235Lk4 - antares-astralis.sol
 - 19: ASTRALbfZneFMsGvUYxpgVhsHvajAcAt7F836vpc6aA2 - wezen-astralis.sol
 - 20: ASTRALJTEm583uJFRxasKBMotwg4S1UVzoxMMJzgfZwQ - avior-astralis.sol
-  
+- 21: ASTRALqV7j78c7DMfeNgAc5YoXsxaWFEetXm7SZhPMqp - kraz-astralis.sol
+- 22: ASTRALgrN5a2BBYq6cE4qCY566HWgv9XLjMVUbtFTN23 - tiaki-astralis.sol
