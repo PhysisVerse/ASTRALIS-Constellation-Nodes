@@ -26,3 +26,4 @@ WIP:
 - 20: ASTRALJTEm583uJFRxasKBMotwg4S1UVzoxMMJzgfZwQ - avior-astralis.sol
 - 21: ASTRALqV7j78c7DMfeNgAc5YoXsxaWFEetXm7SZhPMqp - kraz-astralis.sol
 - 22: ASTRALgrN5a2BBYq6cE4qCY566HWgv9XLjMVUbtFTN23 - tiaki-astralis.sol
+- 23: ASTRALztkz55RqBXURBbLRXwCGxYDQsAqccfcKnGEjVB - deneb-astralis.sol
