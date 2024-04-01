@@ -27,3 +27,6 @@ WIP:
 - 21: ASTRALqV7j78c7DMfeNgAc5YoXsxaWFEetXm7SZhPMqp - kraz-astralis.sol
 - 22: ASTRALgrN5a2BBYq6cE4qCY566HWgv9XLjMVUbtFTN23 - tiaki-astralis.sol
 - 23: ASTRALztkz55RqBXURBbLRXwCGxYDQsAqccfcKnGEjVB - deneb-astralis.sol
+- 24: ASTRALqvesL4zD4CSWXYkcoZnFyQYcgQw5GqMEMRwFyC - betelgeuse-astralis.sol
+- 25: ASTRALc93qmYG3yasvW1mGtms3288gWhjyCcMCmbKgKa - electra-astralis.sol
+- 26: ASTRALJAjrKee376reKe3PMnwcxombfd3BPpWbW83LSc - phact-astralis.sol
