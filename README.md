@@ -30,3 +30,5 @@ WIP:
 - 24: ASTRALqvesL4zD4CSWXYkcoZnFyQYcgQw5GqMEMRwFyC - betelgeuse-astralis.sol
 - 25: ASTRALc93qmYG3yasvW1mGtms3288gWhjyCcMCmbKgKa - electra-astralis.sol
 - 26: ASTRALJAjrKee376reKe3PMnwcxombfd3BPpWbW83LSc - phact-astralis.sol
+- 27: ASTRALN1XU7eQEK5hv4b25ZNW4R7MFx7gdN1iDq8DzTt - izar-astralis.sol
+- 28: ASTRALJNd5F5tuceU3KVUvYg2J8JSsLXkAzAwg5KvMh7 - nash-astralis.sol
