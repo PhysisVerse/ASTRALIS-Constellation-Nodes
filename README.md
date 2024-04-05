@@ -33,3 +33,6 @@ WIP:
 - 27: ASTRALN1XU7eQEK5hv4b25ZNW4R7MFx7gdN1iDq8DzTt - izar-astralis.sol
 - 28: ASTRALJNd5F5tuceU3KVUvYg2J8JSsLXkAzAwg5KvMh7 - nash-astralis.sol
 - 29: ASTRALnk1qFmG6vcNU628k3sRrWCn3ajTDDq7paHEzwF - hamal-astralis.sol
+- 30: ASTRALvaHrQFbjmkUnNE7953etRfckNgXGyG3ExripcJ - atlas-astralis.sol
+- 31: ASTRALKveMTBbdUy8RNjuu5BYEVueahs1i3oUYGxz2NR - castula-astralis.sol
+- 32: ASTRALNE9rYb3pkxdCyV6zovQXbKoaZqDz2MwQTusK71 - mira-astralis.sol
