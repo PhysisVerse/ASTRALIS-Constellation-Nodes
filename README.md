@@ -36,3 +36,7 @@ WIP:
 - 30: ASTRALvaHrQFbjmkUnNE7953etRfckNgXGyG3ExripcJ - atlas-astralis.sol
 - 31: ASTRALKveMTBbdUy8RNjuu5BYEVueahs1i3oUYGxz2NR - castula-astralis.sol
 - 32: ASTRALNE9rYb3pkxdCyV6zovQXbKoaZqDz2MwQTusK71 - mira-astralis.sol
+- 33: ASTRALcxYdkvZHTs153TbkLnQoq9YDmRaRWWLDKvkNzZ - sargas-astralis.sol
+- 34: ASTRALdq636cFLZwxAF3WuHLjSZF9NAGWX73tD72oCAP - peacock-astralis.sol
+- 35: ASTRAL7f45jFDN5GsPhbB2VBr5JkXQnRCNzMLfzbbHw4 - fomalhaut-astralis.sol
+- 36: ASTRALqi8KmgeL1jKiaZvEtRr94htBL3Gn1cUFGARALB - sadr-astralis.sol
